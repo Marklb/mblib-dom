@@ -9,6 +9,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Mark Berry",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marklb/mblib-dom.git"
+  },
   "license": "ISC",
   "devDependencies": {
     "babel-cli": "^6.23.0",
